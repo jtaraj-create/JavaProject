@@ -1,0 +1,9 @@
+Example:
+
+Add:
+- Assignment, priority 2
+- Emergency, priority 1
+- Cleaning, priority 5
+
+When dequeue is selected:
+Removed: Item: Emergency, Priority: 1
